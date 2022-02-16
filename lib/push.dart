@@ -1,4 +1,5 @@
 import 'package:firebase_messaging/firebase_messaging.dart';
+import 'package:simple_logger/simple_logger.dart';
 
 final logger = SimpleLogger()
   ..setLevel(
